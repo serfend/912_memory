@@ -22,7 +22,7 @@
 
 ## 填空（5 x 4')
 
-![descript](file:///C:/Users/sf/AppData/Local/Packages/oice_16_974fa576_32c1d314_2f83/AC/Temp/msohtmlclip1/01/clip_image002.gif)
+![descript](https://raw.githubusercontent.com/serfend/res.image.reference/main/imgclip_image002.gif)
 
 \1.  n^(1/289) 2.^乘方
 
@@ -36,7 +36,7 @@
 
 ## 计算
 
-## ![descript](file:///C:/Users/sf/AppData/Local/Packages/oice_16_974fa576_32c1d314_2f83/AC/Temp/msohtmlclip1/01/clip_image004.gif)算法 （20')
+## ![descript](https://raw.githubusercontent.com/serfend/res.image.reference/main/imgclip_image004.gif)算法 （20')
 
 给先序、后序遍历序列，节点为[0,n)上不同的n个数，给定两个点x,y，求lca(x,y)。要求时间、空间复杂度都为O(n)。
 
